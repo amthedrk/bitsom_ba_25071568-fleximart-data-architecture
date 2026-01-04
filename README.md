@@ -96,6 +96,3 @@ mongosh fleximart_nosql < part2-nosql/mongodb_operations.js
 
         Solution: Implemented a standardize_date function with dayfirst=True and error coercion to handle all formats gracefully.
 
-
-
-        
