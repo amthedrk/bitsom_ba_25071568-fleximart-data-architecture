@@ -1,0 +1,7 @@
+--- Data Quality Report ---
+
+Files Read: Customers(26), Products(20), Sales(41)
+Customers: Removed 6 duplicates/invalid rows.
+Products: Processed 17 valid products.
+Sales: Cleaned and split into 25 Orders.
+Database Load: Success.
